@@ -1,3 +1,5 @@
+# HR Job Search Analytics Workflow
+
 ## What the Workflow Does
 
 This project is a human-reviewed HR analytics workflow designed to make the modern job-search process more structured, strategic, and data-informed.
