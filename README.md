@@ -32,12 +32,12 @@ The workflow does not auto-apply to jobs or auto-send messages. Every resume dra
 
 The goal is not automation for mass applying. The goal is smarter preparation, better organization, and more intentional job-search execution.
 
+## Project Status
+
+This is a sanitized portfolio version of the workflow. The public version removes private job-search data, personal resume information, API credentials, and real contact details.
+
 ## Workflow Preview
 
 The screenshot below shows the overall workflow architecture used to organize job opportunities, review fit, prepare application materials for human review, and track next steps.
 
 ![Workflow architecture overview](screenshots/workflow-architecture-overview.jpeg)
-
-## Project Status
-
-This is a sanitized portfolio version of the workflow. The public version removes private job-search data, personal resume information, API credentials, and real contact details.
