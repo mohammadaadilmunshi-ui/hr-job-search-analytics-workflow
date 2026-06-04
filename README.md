@@ -31,3 +31,7 @@ This workflow was built to support that process with structure, consistency, and
 The workflow does not auto-apply to jobs or auto-send messages. Every resume draft, cover letter, networking message, and application decision requires human review before use.
 
 The goal is not automation for mass applying. The goal is smarter preparation, better organization, and more intentional job-search execution.
+
+## Project Status
+
+This is a sanitized portfolio version of the workflow. The public version removes private job-search data, personal resume information, API credentials, and real contact details.
