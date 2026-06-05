@@ -36,6 +36,12 @@ The goal is not automation for mass applying. The goal is smarter preparation, b
 
 This is a sanitized portfolio version of the workflow. The public version removes private job-search data, personal resume information, API credentials, and real contact details.
 
+## Detailed Documentation
+
+For a deeper explanation of the workflow structure, outputs, safety design, and public demo limitations, see:
+
+[Detailed Project Documentation](docs/README.md)
+
 ## Workflow Preview
 
 The screenshot below shows the overall workflow architecture used to organize job opportunities, review fit, prepare application materials for human review, and track next steps.
